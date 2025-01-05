@@ -24,6 +24,7 @@
    <img src="https://img.shields.io/github/forks/qnblackcat/uYouPlus?style=social" alt="Badge"/>
    <a href="https://github.com/qnblackcat/uYouPlus#support-the-developers"><img src="https://img.shields.io/badge/-Support-lightgrey?style=social&logo=paypal" alt="Badge"></img></a>
 </p>
+use this to download yt IPA (https://armconverter.com/decryptedappstore), use this to upload it (https://litterbox.catbox.moe/), fork uyou, actions run workflow/build, put in the litterbox link after upload, install ipa with altstore (https://altstore.io/download)
 
 > [!NOTE]
 > uYouPlus is a **modified version** of uYou. **Please DO NOT bother MiRO92 with issues unrelated to uYou!**
